@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="184" viewBox="0 0 840 184" role="img" aria-labelledby="title desc">
+  <title id="title">Follow the execution</title>
+  <desc id="desc">Conceptual engineering interests: API to events to workers, with AI and data processing. Each component connects to a shared trace for observability. This is not a specific project's architecture.</desc>
+  <rect x="0.5" y="0.5" width="839" height="183" rx="6" fill="#111820" stroke="#34434f"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="28" y="30" fill="#a7b7c4" font-size="11" letter-spacing="1.5">FOLLOW THE EXECUTION</text>
+    <text x="812" y="30" text-anchor="end" fill="#a7b7c4" font-size="11">REQUEST / PROCESS / UNDERSTAND</text>
+    <g fill="none" stroke="#78909f" stroke-width="1.5">
+      <path d="M152 80H191m-5-4 5 4-5 4M317 80H356m-5-4 5 4-5 4M482 80H521m-5-4 5 4-5 4M647 80H686m-5-4 5 4-5 4"/>
+      <path d="M90 103V142H614M255 103V142M420 103V142M585 103V142M750 103V122" stroke="#547c7c"/>
+      <path d="m609 138 5 4-5 4" stroke="#75cbbd"/>
+    </g>
+    <g fill="#19242e" stroke="#415563">
+      <rect x="28" y="57" width="124" height="46" rx="3"/>
+      <rect x="193" y="57" width="124" height="46" rx="3"/>
+      <rect x="358" y="57" width="124" height="46" rx="3"/>
+      <rect x="523" y="57" width="124" height="46" rx="3"/>
+      <rect x="688" y="57" width="124" height="46" rx="3"/>
+    </g>
+    <g fill="#edf3f7" font-size="15" text-anchor="middle">
+      <text x="90" y="85">API</text>
+      <text x="255" y="85">EVENTS</text>
+      <text x="420" y="85">WORKERS</text>
+      <text x="585" y="85">AI</text>
+      <text x="750" y="85">DATA</text>
+    </g>
+    <g fill="#75cbbd">
+      <circle cx="90" cy="142" r="3"/>
+      <circle cx="255" cy="142" r="3"/>
+      <circle cx="420" cy="142" r="3"/>
+      <circle cx="585" cy="142" r="3"/>
+    </g>
+    <rect x="628" y="122" width="184" height="40" rx="3" fill="#152b2c" stroke="#547c7c"/>
+    <text x="720" y="147" text-anchor="middle" fill="#93e0d1" font-size="13">TRACE / OBSERVE</text>
+  </g>
+</svg>
