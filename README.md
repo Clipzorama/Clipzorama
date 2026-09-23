@@ -63,7 +63,7 @@ I'm working on Tekvra, trying to make it easier to see what an AI agent did and 
 
 ### Find me
 
-[![LinkedIn](assets/contact/linkedin.svg)][linkedin] [![Email](assets/contact/email.svg)][email]
+[![LinkedIn](assets/stack/linkedin.svg)][linkedin] [![Email](assets/stack/email.svg)][email]
 
 [readiora]: https://readiora.com
 [mars]: https://github.com/Clipzorama/mars_habitat
