@@ -52,13 +52,14 @@ I'm working on Tekvra, trying to make it easier to see what an AI agent did and 
 ![Supabase](assets/stack/supabase.svg)
 ![Cloudflare Pages](assets/stack/cloudflare-pages.svg)
 ![Docker](assets/stack/docker.svg)
+![Kubernetes](assets/stack/kubernetes.svg)
 ![Linux](assets/stack/linux.svg)
 ![Git](assets/stack/git.svg)
 ![Postman](assets/stack/postman.svg)
 
 **AI & search** — OpenAI API · RAG · Embeddings · Vector databases · Text extraction
 
-**Exploring** — Kubernetes · OpenTelemetry · Agent tracing · Replay systems
+**Exploring further** — AWS · OpenTelemetry · Agent tracing · Replay systems
 
 ### Find me
 
