@@ -1,6 +1,7 @@
 # Chrision Wynaar
 
-**Software Engineer**  
+## **Software Engineer**  
+
 Full-Stack · AI · Databases · Systems
 
 I'm working on Tekvra, trying to make it easier to see what an AI agent did and why it went wrong.
