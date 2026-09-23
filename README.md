@@ -1,4 +1,4 @@
-## Chrision Wynaar
+# Chrision Wynaar
 
 **Software Engineer**  
 Full-Stack · AI · Databases · Systems
