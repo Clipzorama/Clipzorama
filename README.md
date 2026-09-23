@@ -1,7 +1,6 @@
-# Chrision Wynaar
+## Chrision Wynaar
 
-### **Software Engineer**  
-
+**Software Engineer**  
 Full-Stack · AI · Databases · Systems
 
 I'm working on Tekvra, trying to make it easier to see what an AI agent did and why it went wrong.
@@ -64,13 +63,9 @@ I'm working on Tekvra, trying to make it easier to see what an AI agent did and 
 
 ### Find me
 
-[Repositories][repositories] · [Contributions][activity]  
-[LinkedIn][linkedin] · [Email][email] · [GitHub][github]
+[![LinkedIn](assets/contact/linkedin.svg)][linkedin] [![Email](assets/contact/email.svg)][email]
 
 [readiora]: https://readiora.com
 [mars]: https://github.com/Clipzorama/mars_habitat
-[repositories]: https://github.com/Clipzorama?tab=repositories
-[activity]: https://github.com/Clipzorama?tab=overview
 [linkedin]: https://www.linkedin.com/in/chrision-wynaar-7804861a3/
-[github]: https://github.com/Clipzorama
 [email]: mailto:wchrision@gmail.com
