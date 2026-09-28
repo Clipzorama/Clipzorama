@@ -50,7 +50,7 @@ I'm working on Tekvra, trying to make it easier to see what an AI agent did and 
 **Cloud & tools**
 
 ![Supabase](assets/stack/supabase.svg)
-![Cloudflare Pages](assets/stack/cloudflare-pages.svg)
+![Cloudflare](assets/stack/cloudflare-pages.svg)
 ![Docker](assets/stack/docker.svg)
 ![Kubernetes](assets/stack/kubernetes.svg)
 ![Linux](assets/stack/linux.svg)
