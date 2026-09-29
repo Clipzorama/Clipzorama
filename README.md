@@ -59,7 +59,7 @@ I'm working on Tekvra, trying to make it easier to see what an AI agent did and 
 
 **AI & search** — OpenAI API · RAG · Embeddings · Vector databases · Text extraction
 
-**Exploring further** — AWS · OpenTelemetry · Agent tracing · Replay systems
+**Exploring further** — AWS · LangGraph · OpenTelemetry · Agent tracing · Replay systems
 
 ### Find me
 
